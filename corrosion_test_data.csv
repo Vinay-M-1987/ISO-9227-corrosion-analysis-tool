@@ -1,0 +1,13 @@
+﻿Sample ID,Material,Coating,Test Type,Time (h),Corrosion (%),Mass Loss (mg)
+S01,Steel,Zinc,NSS,72,3.8,11
+S02,Steel,Zinc,CASS,72,5.2,12
+S03,Steel,Paint,CASS,72,3,15
+S04,Steel,Anodized,NSS,72,1.8,5
+S05,Steel,Anodized,AASS,72,2.5,7
+S06,Steel,Anodized,CASS,72,3.2,9
+S07,Aluminum,Zinc,NSS,72,2.2,6
+S08,Aluminum,Paint,NSS,72,5,4
+S09,Aluminum,Anodized,NSS,72,0.8,4
+S10,Aluminum,Anodized,CASS,72,3,8
+S11,Stainless Steel,Zinc,AASS,72,2,5
+S12,Stainless Steel,Anodized,AASS,72,1,3

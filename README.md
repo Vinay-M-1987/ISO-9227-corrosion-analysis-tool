@@ -42,7 +42,7 @@ The tool generates:
 
 ## Sample Graph
 
-![This is an alt text.](/image/corrosion_plot.png "This is a sample Graph.")
+(/image/corrosion_plot.png "This is a sample Graph.")
 
 ---
 
